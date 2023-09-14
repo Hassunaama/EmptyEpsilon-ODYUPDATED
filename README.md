@@ -9,7 +9,7 @@ This is a fork of the Odysseus fork of EmptyEpsilon brigde simulator. Since the 
 **Lua scripts: 0%.**
 
 **Assets: ?%**
-(I don't think that most of the assets need conversion / upgrading)
+(I don't think that most of the assets need converting / upgrading)
 <hr>
 
 ![EmptyEpsilon logo](https://raw.githubusercontent.com/daid/EmptyEpsilon/master/resources/logo_full.png)
