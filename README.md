@@ -1,3 +1,19 @@
+# EE-OdysseusUpdated
+This is a fork of the Odysseus fork of EmptyEpsilon brigde simulator. Since the original fork was quite old, this one will try to update the code to be closer to the current code of EE.
+
+## Progress:
+## Globally: 0%.
+
+**Screens & Controls: 0%.**
+
+**Lua scripts: 0%.**
+
+**Assets: ?%**
+(I don't think that most of the assets need conversion / upgrading)
+<hr>
+
+## Original EmptyEpsilon README
+
 ![EmptyEpsilon logo](https://raw.githubusercontent.com/daid/EmptyEpsilon/master/resources/logo_full.png)
 
 Started as a cross-platform, open-source "clone" of [Artemis Spaceship Bridge Simulator](http://artemis.eochu.com/), **EmptyEpsilon** has already deviated from Artemis with new features and gameplay, including a Game Master mode and multiple AI factions. We strive to get EmptyEpsilon working on all major platforms (Windows, Linux, and OS X), but only Windows support is guaranteed.
